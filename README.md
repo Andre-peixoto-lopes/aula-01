@@ -23,6 +23,3 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
     <li><a href="#">Descrição3</a></li>
     <li><a href="#">Descrição4</a></li>
 </ul>
-
-
-##### continua
